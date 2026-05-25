@@ -13,7 +13,7 @@ Bulk Processing: Need to block a long list of threats? Import a .txt file to pro
 User-Centric Design: Clean, modern interface with a built-in Dark/Light theme toggle and seamless language switching (English/Russian).
 
 System Stability: The application acts as a safe wrapper for Windows' built-in netsh utility, ensuring minimal system footprint and maximum compatibility.
-
+-----------------------------------------------
 📋 System Requirements
 OS: Windows 10 or Windows 11 (64-bit).
 
