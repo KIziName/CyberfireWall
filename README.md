@@ -1,7 +1,9 @@
-Cyber Firewall Pro v1.2.5
+Cyber Firewall Pro 
+-------------------------------------------------------------------------------------
 Cyber Firewall Pro is a lightweight, intuitive, and efficient tool for real-time network monitoring and traffic control. Designed for power users and security enthusiasts, it allows you to monitor all active network connections and block suspicious outbound traffic with just one click, utilizing the native Windows Firewall.
 
 🛠 Key Features
+---------------------------------------------
 Real-time Network Monitoring: Track all active network connections, including remote IP addresses, ports, and the specific processes initiating them.
 
 One-Click Blocking: Instantly restrict outbound traffic for any suspicious IP address or process by creating Windows Firewall rules on the fly.
