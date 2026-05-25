@@ -1,5 +1,3 @@
-Here is the professional English version of the README.md for your GitHub repository. It covers all the features of version 1.2.5 and sets a clear, reliable tone.
-
 Cyber Firewall Pro v1.2.5
 Cyber Firewall Pro is a lightweight, intuitive, and efficient tool for real-time network monitoring and traffic control. Designed for power users and security enthusiasts, it allows you to monitor all active network connections and block suspicious outbound traffic with just one click, utilizing the native Windows Firewall.
 
