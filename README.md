@@ -32,8 +32,6 @@ Click "START MONITOR" to begin tracking active connections.
 
 Navigate to the "Blacklist" tab, enter the target IP address and port, and click "BLOCK".
 
-Use the "Whitelist" tab to add trusted IPs that should never be blocked.
-
 ⚠️ Disclaimer
 ----------------------------------------------------
 This software is a powerful control tool for managing firewall rules. Misconfiguration may result in restricted access to specific network resources. The developer is not responsible for any connectivity issues caused by user-defined rules. Use at your own risk.
