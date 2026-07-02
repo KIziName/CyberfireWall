@@ -35,7 +35,6 @@ import psutil
 import threading
 import subprocess
 from tkinter import messagebox
-import ctypes
 import webbrowser
 import pystray
 from datetime import datetime
